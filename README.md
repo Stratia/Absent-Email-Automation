@@ -13,3 +13,6 @@ Command-List:
 -help |  Example: -help     | Prints list of all avaliable commands
 ```
 
+**Example**
+![alt text](AbsentExample.png)
+
