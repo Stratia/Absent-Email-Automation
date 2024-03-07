@@ -1,5 +1,10 @@
 # Email-Automation
 
+Place Credentials in index.env within the info folder
+
+Create a Google APP Password: https://support.google.com/accounts/answer/185833?hl=en
+ - Place App password in index.env within the info folder (password=[App Password])
+
 ```
 Run in script directory: python setup.py develop
 
