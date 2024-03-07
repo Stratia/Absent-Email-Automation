@@ -1,5 +1,5 @@
 # Email-Automation
-!
+
 ```
 Run in script directory: python setup.py develop
 
