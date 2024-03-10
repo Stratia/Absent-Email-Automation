@@ -3,7 +3,7 @@
 Place Credentials in index.env within the info folder
 
 Create a Google APP Password: https://support.google.com/accounts/answer/185833?hl=en
- - Place App password in index.env within the info folder (password=[App Password])
+ - Place App password in index.env within the info folder (password=App Password)
 
 ```
 Run in script directory: python setup.py develop
@@ -15,7 +15,7 @@ Command-List:
           
 -Process |Example: -Process | Prints all saved emails
           
--help |  Example: -help     | Prints list of all avaliable commands
+-help |  Example: -help     | Prints list of all available commands
 ```
 
 **Example**
